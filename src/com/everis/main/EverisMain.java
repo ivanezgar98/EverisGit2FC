@@ -8,9 +8,10 @@ package com.everis.main;
  */
 public class EverisMain {
 
+
 	/**
 	 * Método principal.
-	 * 
+ 	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -18,7 +19,7 @@ public class EverisMain {
 		System.out.println("Hola a tod@s");
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
-
+		System.out.println(" Hola ivan perez garcia");
 	}
 
 }
